@@ -1,3 +1,3 @@
-x = 3 + 3
+y = 1 + 1
 
-print (x)
+print (y)
